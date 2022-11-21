@@ -34,10 +34,6 @@ public class Soru4AXXASorusuFarkliCozumu {
 
 
         }
-        System.out.println("**** BEYZA KESER *****");
-        System.out.println();
-        System.out.println("**** BEYZA KESER *****");
-        System.out.println("**** BEYZA KESER *****");
 
 
 
